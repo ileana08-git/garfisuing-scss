@@ -1,0 +1,72 @@
+
+$primary: #333333;
+$secondary: #7dcdc8;
+$white:#ffffff;
+$background:#f7f7f7;
+$border-radius:5px;
+
+
+
+
+// Typography
+$font-weight-base: 400;
+$font-family-base: 'Metropolis', sans-serif; 
+$font-weight-light: 400;
+$font-weight-normal: 500;
+$font-weight-semibold:600;
+$font-weight-bold:700;
+$font-size:1rem;
+$h1-font-size:1.75rem;
+$h5-font-size:1.10rem !default;
+
+// ====nav=====//
+$navbar-light-active-color:$secondary;
+$navbar-light-color:$primary;
+$navbar-nav-link-padding-x:20px;
+$nav-link-font-size:$font-size;
+$navbar-brand-margin-end: 5rem;
+$navbar-padding-x: 6rem;
+
+// ====carousel====//
+$carousel-caption-color: $white;
+$carousel-caption-padding-y:160px;
+$carousel-caption-spacer-x:200px;
+
+
+.carousel-caption{
+    left: 15% !important;
+    right:0px !important;
+    text-align: left !important;
+    font-size:40px;
+    font-weight:700;
+}
+
+
+// service//
+$headings-font-size:1.75rem;
+$headings-font-weight:normal;
+$lead-font-size:1.5rem;
+$lead-font-weight:400;
+$link-color:$secondary; 
+
+//card//
+$card-border-radius:$border-radius;
+$card-border-width:0px;
+$font-size:$h5-font-size;
+$card-inner-border-radius:$border-radius;
+$card-spacer-y: 2rem;
+$card-title-spacer-y:1.5rem;
+$card-spacer-x:0rem;
+$card-box-shadow:0 5px 15px rgba(0,0,0,.15);
+$card-group-margin:20px;
+$card-bg: none;
+.card{
+    padding:15px;
+}
+
+
+$list-inline-padding: .5rem;
+
+
+
+

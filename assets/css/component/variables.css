@@ -1,0 +1,13 @@
+.carousel-caption {
+  left: 15% !important;
+  right: 0px !important;
+  text-align: left !important;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.card {
+  padding: 15px;
+}
+
+/*# sourceMappingURL=variables.css.map */
